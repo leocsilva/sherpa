@@ -1,0 +1,8 @@
+*.txt
+*.csv
+*.log
+*.bak
+*.*~
+*.csv*
+*.tmp
+*.xml
